@@ -1,2 +1,2 @@
 # Ark-Investing
-An attempt at analyzing companies based on past trends, fundamentals etc. 
+An attempt at predicting stock prices by training a model on past data. 
